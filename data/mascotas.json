@@ -1,11 +1,73 @@
 [
   {
     "id": 1,
-    "nombre": "Toby",
+    "nombre": "Chocolate",
     "casa": "D34",
     "duenno": "Victor",
     "contacto1": "86186959",
     "contacto2": "88668876",
-    "imagen": "perro1.jpg"
+    "imagen": "1.jpg",
+    "descripcion": "Perrito macho french poddle color chocolate"
+  },
+  {
+    "id": 2,
+    "nombre": "Linda",
+    "casa": "D-36",
+    "duenno": "Victor",
+    "contacto1": "86186959",
+    "contacto2": "88668876",
+    "imagen": "2.jpg",
+    "descripcion": "Perrita hembra french poddle color chocolate"
+
+  },
+  {
+    "id": 3,
+    "nombre": "Tommy",
+    "casa": "D-34",
+    "duenno": "Victor",
+    "contacto1": "86186959",
+    "contacto2": "88668876",
+    "imagen": "3.jpg",
+    "descripcion": "Perrito macho french poddle color rojo"
+  },
+  {
+    "id": 4,
+    "nombre": "Bob",
+    "casa": "Z-45",
+    "duenno": "Daniela",
+    "contacto1": "88888888",
+    "contacto2": "88668876",
+    "imagen": "4.jpg",
+    "descripcion": "Perrito macho french poddle color rojo"
+  },
+  {
+    "id": 5,
+    "nombre": "Misi",
+    "casa": "Y-10",
+    "duenno": "Jose",
+    "contacto1": "88888888",
+    "contacto2": "88668876",
+    "imagen": "5.jpg",
+    "descripcion": "Perrito macho french poddle color rojo"
+  },
+  {
+    "id": 6,
+    "nombre": "Toby",
+    "casa": "D-22",
+    "duenno": "Natalia",
+    "contacto1": "88888888 ",
+    "contacto2": "88668876",
+    "imagen": "6.jpg",
+    "descripcion": "Perrito macho french poddle color rojo"
+  },
+  {
+    "id": 7,
+    "nombre": "Zari",
+    "casa": "Z-12",
+    "duenno": "Dayana",
+    "contacto1": "88888888",
+    "contacto2": "88668876",
+    "imagen": "7.jpg",
+    "descripcion": "Perrito macho french poddle color rojo"
   }
 ]
