@@ -311,23 +311,33 @@
     "descripcion": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "nombre": "Zafira",
     "casa": "B-19",
     "duenno": "María / Luis ",
     "contacto1": "61338222",
     "contacto2": "60585041 ",
-    "imagen": "31.jpg",
+    "imagen": "32.jpg",
     "descripcion": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "nombre": "Yuna",
     "casa": "A-53",
     "duenno": "Natalia / Jose",
     "contacto1": "87235987",
     "contacto2": "88825642",
-    "imagen": "32.jpg",
+    "imagen": "33.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 34,
+    "nombre": "Oliver Gustav",
+    "casa": "F-02",
+    "duenno": "Felicia / Santiago",
+    "contacto1": "83261642",
+    "contacto2": "84521986",
+    "imagen": "34.jpg",
     "descripcion": ""
   }
 
