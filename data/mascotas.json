@@ -339,6 +339,16 @@
     "contacto2": "84521986",
     "imagen": "34.jpg",
     "descripcion": ""
+  },
+  {
+    "id": 35,
+    "nombre": "Oliver Gustav",
+    "casa": "F-21",
+    "duenno": "Viviana",
+    "contacto1": " 87167619",
+    "contacto2": "",
+    "imagen": "35.jpg",
+    "descripcion": ""
   }
 
 ]
