@@ -11,6 +11,10 @@ function cargarUsuarios() {
 
                 const imgBorder = document.createElement('div');
                 imgBorder.classList = 'img-border';
+                imgBorder.setAttribute("onclick", "localStorage.setItem('pet' , '" + usuario.id + "')");
+
+                imgBorder.setAttribute("onclick", "openModal('../images/"+ usuario.imagen+"')");
+
 
                 const img = document.createElement('img');
                 img.classList = 'img-main';
