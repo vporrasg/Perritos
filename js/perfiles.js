@@ -23,7 +23,7 @@ function cargarUsuarios() {
                     <p>Nombre: ${usuario.nombre}</p>
                     <p>Casa: ${usuario.casa} </p>
                     <p>Dueño: ${usuario.duenno}</p>
-                    <p>Contacto: ${usuario.contacto1[0]}${usuario.contacto1[1]}${usuario.contacto1[2]}${usuario.contacto1[3]}-${usuario.contacto1[4]}${usuario.contacto1[5]}${usuario.contacto1[6]}${usuario.contacto1[7]}</p>    
+                    <p>Telefono: ${usuario.contacto1[0]}${usuario.contacto1[1]}${usuario.contacto1[2]}${usuario.contacto1[3]}-${usuario.contacto1[4]}${usuario.contacto1[5]}${usuario.contacto1[6]}${usuario.contacto1[7]}</p>    
                 `;
                 
 
