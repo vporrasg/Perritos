@@ -20,10 +20,10 @@ function cargarUsuarios() {
                 infoBorder.classList = 'info-border';
 
                 infoBorder.innerHTML += `
-                    <p>Nombre: ${usuario.nombre}</p>
-                    <p>Casa: ${usuario.casa} </p>
-                    <p>Dueño: ${usuario.duenno}</p>
-                    <p>Telefono: ${usuario.contacto1[0]}${usuario.contacto1[1]}${usuario.contacto1[2]}${usuario.contacto1[3]}-${usuario.contacto1[4]}${usuario.contacto1[5]}${usuario.contacto1[6]}${usuario.contacto1[7]}</p>    
+                    <p><i class="fa-solid fa-paw"></i> Nombre: ${usuario.nombre}</p>
+                    <p> <i class="fa-solid fa-house"></i> Casa: ${usuario.casa} </p>
+                    <p><i class="fa-regular fa-address-card"></i> Dueño: ${usuario.duenno}</p>
+                    <p><i class="fa-solid fa-phone"></i> Telefono: ${usuario.contacto1[0]}${usuario.contacto1[1]}${usuario.contacto1[2]}${usuario.contacto1[3]}-${usuario.contacto1[4]}${usuario.contacto1[5]}${usuario.contacto1[6]}${usuario.contacto1[7]}</p>    
                 `;
                 
 
