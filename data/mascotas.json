@@ -45,7 +45,7 @@
     "nombre": "Luka",
     "casa": "D-51",
     "duenno": "María José",
-    "contacto1": "7202-6184 ",
+    "contacto1": "72026184 ",
     "contacto2": "",
     "imagen": "5.jpg",
     "descripcion": "Perrito blanco"
@@ -55,7 +55,7 @@
     "nombre": "Sussy",
     "casa": "D-51",
     "duenno": "María José",
-    "contacto1": "7202-6184 ",
+    "contacto1": "72026184 ",
     "contacto2": "",
     "imagen": "6.jpg",
     "descripcion": "Perrito blanco"
@@ -169,5 +169,45 @@
     "contacto2": "83584898",
     "imagen": "17.jpg",
     "descripcion": ""
+  },
+  {
+    "id": 18,
+    "nombre": "Tacho",
+    "casa": "D-26",
+    "duenno": "Séfora Navarro",
+    "contacto1": "71781019",
+    "contacto2": "",
+    "imagen": "18.jpg",
+    "descripcion": "Gato gris y gordo, ojos amarillos, cola rayada"
+  },
+  {
+    "id": 19,
+    "nombre": "Koda",
+    "casa": "A-16",
+    "duenno": "Erick Carranza",
+    "contacto1": "86258001",
+    "contacto2": "",
+    "imagen": "19.jpg",
+    "descripcion": "Hembra, color café, peluda, ojos cafés, muy amigable con personas"
+  },
+  {
+    "id": 20,
+    "nombre": "Melón",
+    "casa": "A-16",
+    "duenno": "Erick Carranza",
+    "contacto1": "86258001",
+    "contacto2": "",
+    "imagen": "20.jpg",
+    "descripcion": "Gato grande, gordo, color crema / amarillo claro rayado, pecho blanco, ojos amarillos"
+  },
+  {
+    "id": 21,
+    "nombre": "Max",
+    "casa": "A-16",
+    "duenno": "Séfora Navarro  ",
+    "contacto1": "71781019",
+    "contacto2": "",
+    "imagen": "20.jpg",
+    "descripcion": "perrito viejo, negro con café, pequeño"
   }
 ]
