@@ -5,7 +5,7 @@
     "casa": "D-36",
     "duenno": "Victor",
     "contacto1": "86186959",
-    "contacto2": "88668876",
+    "contacto2": "60366423",
     "imagen": "1.jpg",
     "descripcion": "Perrito macho french poddle color chocolate"
   },
@@ -15,7 +15,7 @@
     "casa": "D-36",
     "duenno": "Victor",
     "contacto1": "86186959",
-    "contacto2": "88668876",
+    "contacto2": "60366423",
     "imagen": "2.jpg",
     "descripcion": "Perrita hembra french poddle color chocolate"
 
@@ -23,60 +23,151 @@
   {
     "id": 3,
     "nombre": "Tommy",
-    "casa": "D-34",
+    "casa": "D-36",
     "duenno": "Victor",
     "contacto1": "86186959",
-    "contacto2": "88668876",
+    "contacto2": "60366423",
     "imagen": "3.jpg",
     "descripcion": "Perrito macho french poddle color rojo"
   },
   {
+    "id": 4,
+    "nombre": "Nala",
+    "casa": "E-36",
+    "duenno": "Heleni",
+    "contacto1": "83210674",
+    "contacto2": "",
+    "imagen": "4.jpg",
+    "descripcion": "Chihuahua negra orejona 10 añitos"
+  },
+  {
     "id": 5,
-    "nombre": "Misi",
-    "casa": "Y-10",
-    "duenno": "Jose",
-    "contacto1": "88888888",
-    "contacto2": "88668876",
+    "nombre": "Luka",
+    "casa": "D-51",
+    "duenno": "María José",
+    "contacto1": "7202-6184 ",
+    "contacto2": "",
     "imagen": "5.jpg",
-    "descripcion": "Perrito macho french poddle color rojo"
+    "descripcion": "Perrito blanco"
   },
   {
     "id": 6,
-    "nombre": "Toby",
-    "casa": "D-22",
-    "duenno": "Natalia",
-    "contacto1": "88888888 ",
-    "contacto2": "88668876",
+    "nombre": "Sussy",
+    "casa": "D-51",
+    "duenno": "María José",
+    "contacto1": "7202-6184 ",
+    "contacto2": "",
     "imagen": "6.jpg",
-    "descripcion": "Perrito macho french poddle color rojo"
+    "descripcion": "Perrito blanco"
   },
   {
     "id": 7,
-    "nombre": "Zari",
-    "casa": "Z-12",
-    "duenno": "Dayana",
-    "contacto1": "88888888",
-    "contacto2": "88668876",
+    "nombre": "Lupe",
+    "casa": "F-22",
+    "duenno": "Gloriana/Javier",
+    "contacto1": "84137707",
+    "contacto2": "61228114",
     "imagen": "7.jpg",
-    "descripcion": "Perrito macho french poddle color rojo"
+    "descripcion": "Hembra, cruce de Border Negra con blanco Mega cariñosa 🤩"
   },
   {
     "id": 8,
-    "nombre": "Lupe",
-    "casa": "F-22",
-    "duenno": "Gloriana / Javier",
-    "contacto1": "84137707",
-    "contacto2": "61228114",
-    "imagen": "8.jpg",
-    "descripcion": "Hembra, cruce de Border Negra con blanco Mega cariñosa 🤩"
-  },{
-    "id": 9,
     "nombre": "Otto ",
     "casa": "F-22",
     "duenno": "Gloriana / Javier",
     "contacto1": "84137707",
     "contacto2": "61228114",
-    "imagen": "9.jpg",
+    "imagen": "8.jpg",
     "descripcion": "Macho, Labrador Blanco Amargado, pero buena nota 🤘🏻"
+  },
+  {
+    "id": 9,
+    "nombre": "Konan",
+    "casa": "F-16",
+    "duenno": "Nicole / José",
+    "contacto1": "87377999",
+    "contacto2": "86369269",
+    "imagen": "9.jpg",
+    "descripcion": "Gato cachorro anaranjado"
+  },
+  {
+    "id": 10,
+    "nombre": "Dokky",
+    "casa": "F-16",
+    "duenno": "Nicole / José",
+    "contacto1": "87377999",
+    "contacto2": "86369269",
+    "imagen": "10.jpg",
+    "descripcion": "casi no le gustan los otros perros"
+  },
+  {
+    "id": 11,
+    "nombre": "Suri",
+    "casa": "F-16",
+    "duenno": "Nicole / José",
+    "contacto1": "87377999",
+    "contacto2": "86369269",
+    "imagen": "11.jpg",
+    "descripcion": "esta muy viejita y es muy asustadiza"
+  },
+  {
+    "id": 12,
+    "nombre": "Pepe",
+    "casa": "F-16",
+    "duenno": "Nicole / José",
+    "contacto1": "87377999",
+    "contacto2": "86369269",
+    "imagen": "12.jpg",
+    "descripcion": "también está viejito y es bravo según él"
+  },
+  {
+    "id": 13,
+    "nombre": "Olivia",
+    "casa": "F-16",
+    "duenno": "Nicole / José",
+    "contacto1": "87377999",
+    "contacto2": "86369269",
+    "imagen": "13.jpg",
+    "descripcion": "es muy tranquila, sabe su nombre"
+  },
+  {
+    "id": 14,
+    "nombre": "Holly",
+    "casa": "F-16",
+    "duenno": "Alexa / Ronald",
+    "contacto1": "70996272",
+    "contacto2": "60417241",
+    "imagen": "14.jpg",
+    "descripcion": "Maltipoo pequeña, patas cortas, cuerpo y cola larga"
+  },
+  {
+    "id": 15,
+    "nombre": "Lilo",
+    "casa": "F-16",
+    "duenno": "Lorelli",
+    "contacto1": "86576698",
+    "contacto2": "83584898",
+    "imagen": "15.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 16,
+    "nombre": "Opera",
+    "casa": "F-16",
+    "duenno": "Lorelli",
+    "contacto1": "86576698",
+    "contacto2": "83584898",
+    "imagen": "16.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 17,
+    "nombre": "Molly",
+    "casa": "F-16",
+    "duenno": "Lorelli",
+    "contacto1": "86576698",
+    "contacto2": "83584898",
+    "imagen": "17.jpg",
+    "descripcion": ""
   }
 ]
