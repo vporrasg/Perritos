@@ -29,7 +29,7 @@
 .card-main {
     border: 2px solid rgba(117, 117, 117, 0.24);
     width: 95%;
-    height: 170px;
+    height: 215px;
     border-radius: 8px;
 
     font-size: 18px;
@@ -85,4 +85,24 @@
     object-fit: cover;
     border-radius: 8px 0px 0px 8px;
 }
+
+
+.btn-contact{
+    width: 130px;
+    background-color: rgb(46, 204, 113);
+    border-radius: 14px;
+    text-align: center;
+    padding: 10px;
+    align-self: center;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: auto;
+    font-size: 16px;
+    
+}
+
+button {
+    outline:none;
+}
+
 
