@@ -4,6 +4,9 @@ function cargarUsuarios() {
     fetch('../data/mascotas.json')
         .then(respuesta => respuesta.json())
         .then(usuarios => {
+            count = document.getElementById("petcount");
+            count.innerHTML ="Mascotas (" + usuarios.length + ")"
+
             usuarios.forEach(usuario => {
 
                 const card = document.createElement('div');

@@ -285,7 +285,7 @@
     "nombre": "Luigi",
     "casa": "C-30",
     "duenno": "Tatiana",
-    "contacto1": "8701-5544",
+    "contacto1": "87015544",
     "contacto2": "",
     "imagen": "29.jpg",
     "descripcion": "Es un perrito feliz y amistoso, no es violento ni camote"
@@ -348,6 +348,36 @@
     "contacto1": " 87167619",
     "contacto2": "",
     "imagen": "35.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 36,
+    "nombre": "Frida",
+    "casa": "F-21",
+    "duenno": "Viviana",
+    "contacto1": " 87167619",
+    "contacto2": "",
+    "imagen": "36.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 37,
+    "nombre": "Piyo",
+    "casa": "D-27",
+    "duenno": "Michelle / Walter",
+    "contacto1": " 88520277",
+    "contacto2": "",
+    "imagen": "37.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 38 ,
+    "nombre": "Kiwi",
+    "casa": "F-21",
+    "duenno": "Michelle / Walter",
+    "contacto1": " 88520277",
+    "contacto2": "",
+    "imagen": "38.jpg",
     "descripcion": ""
   }
 
