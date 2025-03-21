@@ -173,7 +173,7 @@
   {
     "id": 18,
     "nombre": "Tacho",
-    "casa": "D-26",
+    "casa": "A-16",
     "duenno": "Sefora / Erick",
     "contacto1": "71781019",
     "contacto2": "",
@@ -209,5 +209,126 @@
     "contacto2": "",
     "imagen": "21.jpg",
     "descripcion": "perrito viejo, negro con café, pequeño"
+  },
+  {
+    "id": 22,
+    "nombre": "Julieta",
+    "casa": "F-19",
+    "duenno": "Steven / Qeren",
+    "contacto1": "89804729",
+    "contacto2": "",
+    "imagen": "22.jpg",
+    "descripcion": "Una gatita calico de 6 años, ella no sale de casa sin que la vigilemos. Es miedosa pero tranquila."
+  },
+  {
+    "id": 23,
+    "nombre": "Manchas",
+    "casa": "A-54",
+    "duenno": "Maricar",
+    "contacto1": "89380435",
+    "contacto2": "",
+    "imagen": "23.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 24,
+    "nombre": "Rocky",
+    "casa": "A-54",
+    "duenno": "Fernanda",
+    "contacto1": "88923653",
+    "contacto2": "",
+    "imagen": "24.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 25,
+    "nombre": "Lany",
+    "casa": "A-54",
+    "duenno": "Fernanda",
+    "contacto1": "88923653",
+    "contacto2": "",
+    "imagen": "25.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 26,
+    "nombre": "Nava",
+    "casa": "G-53",
+    "duenno": "Cristian Hidalgo",
+    "contacto1": "72027056",
+    "contacto2": "88797121",
+    "imagen": "26.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 27,
+    "nombre": "Loui",
+    "casa": "B-13",
+    "duenno": "Kattia Leandro",
+    "contacto1": "88156315",
+    "contacto2": "",
+    "imagen": "27.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 28,
+    "nombre": "Gandalf",
+    "casa": "B-55",
+    "duenno": "Kim",
+    "contacto1": "87131872 ",
+    "contacto2": "",
+    "imagen": "28.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 29,
+    "nombre": "Luigi",
+    "casa": "C-30",
+    "duenno": "Tatiana",
+    "contacto1": "8701-5544",
+    "contacto2": "",
+    "imagen": "29.jpg",
+    "descripcion": "Es un perrito feliz y amistoso, no es violento ni camote"
+  },
+  {
+    "id": 30,
+    "nombre": "Cachacuaz",
+    "casa": "A-27",
+    "duenno": "Elias salazar",
+    "contacto1": "83438573",
+    "contacto2": "",
+    "imagen": "30.jpg",
+    "descripcion": "aunque se le ve cara amargada se da a querer y es dócil jeje tiene complejo de perro"
+  },
+  {
+    "id": 31,
+    "nombre": "Milan",
+    "casa": "B-58",
+    "duenno": "María / Fabiola ",
+    "contacto1": "87035880",
+    "contacto2": "89415749 ",
+    "imagen": "31.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 31,
+    "nombre": "Zafira",
+    "casa": "B-19",
+    "duenno": "María / Luis ",
+    "contacto1": "61338222",
+    "contacto2": "60585041 ",
+    "imagen": "31.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 32,
+    "nombre": "Yuna",
+    "casa": "A-53",
+    "duenno": "Natalia / Jose",
+    "contacto1": "87235987",
+    "contacto2": "88825642",
+    "imagen": "32.jpg",
+    "descripcion": ""
   }
+
 ]
