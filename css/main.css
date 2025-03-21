@@ -98,11 +98,11 @@
     margin-top: 5px;
     margin-bottom: auto;
     font-size: 16px;
+    outline:none;
+    border: 0px solid black;
+
     
 }
 
-button {
-    outline:none;
-}
 
 
