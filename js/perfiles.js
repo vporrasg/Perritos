@@ -36,7 +36,7 @@ function cargarUsuarios() {
                 const btn1 = document.createElement('button');
                 btn1.classList = 'btn-contact';
                 btn1.innerHTML+=`<i class="fa-brands fa-whatsapp"></i> Contactar`;
-                btn1.setAttribute('href', "https://api.whatsapp.com/send/?phone="+usuario.contacto1)
+                btn1.setAttribute('href', "https://wa.me/506"+usuario.contacto1)
                 btn1.href = "https://api.whatsapp.com/send/?phone="+usuario.contacto1;
              
                 
