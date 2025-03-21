@@ -31,16 +31,6 @@
     "descripcion": "Perrito macho french poddle color rojo"
   },
   {
-    "id": 4,
-    "nombre": "Bob",
-    "casa": "Z-45",
-    "duenno": "Daniela",
-    "contacto1": "88888888",
-    "contacto2": "88668876",
-    "imagen": "4.jpg",
-    "descripcion": "Perrito macho french poddle color rojo"
-  },
-  {
     "id": 5,
     "nombre": "Misi",
     "casa": "Y-10",
@@ -69,5 +59,24 @@
     "contacto2": "88668876",
     "imagen": "7.jpg",
     "descripcion": "Perrito macho french poddle color rojo"
+  },
+  {
+    "id": 8,
+    "nombre": "Lupe",
+    "casa": "F-22",
+    "duenno": "Gloriana / Javier",
+    "contacto1": "84137707",
+    "contacto2": "61228114",
+    "imagen": "8.jpg",
+    "descripcion": "Hembra, cruce de Border Negra con blanco Mega cariñosa 🤩"
+  },{
+    "id": 9,
+    "nombre": "Otto ",
+    "casa": "F-22",
+    "duenno": "Gloriana / Javier",
+    "contacto1": "84137707",
+    "contacto2": "61228114",
+    "imagen": "9.jpg",
+    "descripcion": "Macho, Labrador Blanco Amargado, pero buena nota 🤘🏻"
   }
 ]
