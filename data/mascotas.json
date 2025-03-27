@@ -342,7 +342,7 @@
   },
   {
     "id": 35,
-    "nombre": "Oliver Gustav",
+    "nombre": "Molly",
     "casa": "F-21",
     "duenno": "Viviana",
     "contacto1": "87167619",
@@ -379,6 +379,149 @@
     "contacto2": "",
     "imagen": "38.jpg",
     "descripcion": ""
+  },
+  {
+    "id": 39 ,
+    "nombre": "Mily",
+    "casa": "B-08",
+    "duenno": "Pamela",
+    "contacto1": "88237041",
+    "contacto2": "",
+    "imagen": "39.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 40 ,
+    "nombre": "Tiberio",
+    "casa": "C-17",
+    "duenno": "Romulo",
+    "contacto1": "83395866",
+    "contacto2": "70160190",
+    "imagen": "40.jpg",
+    "descripcion": "Soy bueno, pero se asustan por mi tamaño, uso bosal por cochino todo me lo como"
+  },
+  {
+    "id": 41 ,
+    "nombre": "Ken",
+    "casa": "C-17",
+    "duenno": "Isabel",
+    "contacto1": "83395866",
+    "contacto2": "70160190",
+    "imagen": "40.jpg",
+    "descripcion": "Soy jugueton, tengo muchos amigos"
+  },
+  {
+    "id": 42 ,
+    "nombre": "Cesar",
+    "casa": "C-17",
+    "duenno": "Romulo / Isabel",
+    "contacto1": "83395866",
+    "contacto2": "70160190",
+    "imagen": "42.jpg",
+    "descripcion": "Fui rescatado de mucho maltrato, evito los perros y las personas"
+  },
+  {
+    "id": 43 ,
+    "nombre": "Rex Alexander",
+    "casa": "A-25",
+    "duenno": "Gina Viquez ",
+    "contacto1": "88832247",
+    "contacto2": "",
+    "imagen": "43.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 44 ,
+    "nombre": "Otto",
+    "casa": "A-25",
+    "duenno": "Gina Viquez ",
+    "contacto1": "88832247",
+    "contacto2": "",
+    "imagen": "44.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 45 ,
+    "nombre": "Loki y Mobius",
+    "casa": "F-43",
+    "duenno": "Juan /Tatiana",
+    "contacto1": "83236796",
+    "contacto2": "86680901",
+    "imagen": "45.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 46 ,
+    "nombre": "Blacky Carpi",
+    "casa": "A-25",
+    "duenno": "Gina Viquez ",
+    "contacto1": "88832247",
+    "contacto2": "",
+    "imagen": "46.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 47 ,
+    "nombre": "Alfonso",
+    "casa": "B-50",
+    "duenno": "Andrea",
+    "contacto1": "72507484",
+    "contacto2": "",
+    "imagen": "47.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 48 ,
+    "nombre": "Frida y Molly ",
+    "casa": "F-24",
+    "duenno": "Maria / Jorge",
+    "contacto1": "71044114",
+    "contacto2": "62115860",
+    "imagen": "48.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 48 ,
+    "nombre": "Obi",
+    "casa": "A-09",
+    "duenno": "Mitzy / Pablo",
+    "contacto1": "88757494",
+    "contacto2": "88107552",
+    "imagen": "48.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 50 ,
+    "nombre": "Paco",
+    "casa": "A-09",
+    "duenno": "Mitzy / Pablo",
+    "contacto1": "88757494",
+    "contacto2": "88107552",
+    "imagen": "50.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 51 ,
+    "nombre": "Pipo",
+    "casa": "F-35",
+    "duenno": "Manuel / Ana",
+    "contacto1": "87409627",
+    "contacto2": "85188243",
+    "imagen": "51.jpg",
+    "descripcion": ""
+  },
+  {
+    "id": 52 ,
+    "nombre": "Milo",
+    "casa": "E-39",
+    "duenno": "Camila / Mauricio",
+    "contacto1": "87801000",
+    "contacto2": "86166194",
+    "imagen": "52.jpg",
+    "descripcion": ""
   }
+
+
+
 
 ]
